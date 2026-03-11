@@ -3,6 +3,7 @@
 ## Description
 This is a simple Android weather application built using **Kotlin** and **Jetpack Compose**.
 The app allows a user to log in and check the weather information of any city using the OpenWeather API.
+The question description didn't mention which programming language to use, so I did it using Kotlin.
 
 ## Features Implemented
 - **Login Screen**
@@ -39,5 +40,6 @@ Due to time constraints, I couldn't implement the following features:
 - Retrofit
 - EncryptedSharedPreferences
 - Broadcast Receiver
+
 
 
