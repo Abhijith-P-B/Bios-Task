@@ -23,6 +23,16 @@ The app allows a user to log in and check the weather information of any city us
   - Detects network connectivity changes
   - Displays a toast message when network status changes
 
+## Features Not Implemented
+Due to time constraints, I couldn't implement the following features:
+
+- Content Provider 
+- File Provider 
+- Android Service 
+- Deep Linking 
+- Application Signing
+
+
 ## Technologies Used
 - Kotlin
 - Jetpack Compose
